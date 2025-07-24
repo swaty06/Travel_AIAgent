@@ -31,6 +31,7 @@ A lightweight AI-powered travel assistant built with **Streamlit** and **Gemini*
 ```bash
 git clone https://github.com/your-username/travel-ai-agent.git
 cd travel-ai-agent
+```
 
 ## 🛠️ Install Dependencies
 
