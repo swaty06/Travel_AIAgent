@@ -52,3 +52,27 @@ To use the Gemini model, you'll need to set up the API key:
 
 ```env
 GOOGLE_API_KEY=your_api_key_here
+
+
+## ✨ Features
+
+- 🌐 **Real-time information retrieval** using DuckDuckGo search API  
+- 🤖 **Powered by Gemini AI** for natural, context-aware responses  
+- 🧠 **Chain-of-thought reasoning** for multi-step problem solving  
+- 📊 **Formatted outputs** in Markdown with tables for easy readability  
+- 📈 **Optional financial data integration** via YFinance tools  
+- 💻 **Interactive Streamlit app** for easy user interface and quick testing  
+- 🔒 **Secure API key management** via environment variables (`.env` file)  
+
+---
+
+## 🚀 Future Enhancements
+
+- 🔄 **Multi-language support** for international travel queries  
+- 🗺️ **Integration with real-time transit and flight APIs** for live schedules and booking options  
+- 📅 **Personalized travel planner** that saves user preferences and suggests itineraries  
+- 🤝 **Chat history and session management** for conversational context retention  
+- 🧩 **Extendable toolset** to add more domain-specific knowledge (e.g., weather, hotels)  
+- ⚡ **Performance optimizations** and asynchronous search for faster responses  
+- 🎨 **Enhanced UI/UX design** with more interactive elements and better mobile support  
+
