@@ -42,3 +42,13 @@ To get started, install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## 🔐 Gemini API Setup
+
+To use the Gemini model, you'll need to set up the API key:
+
+1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey).
+2. Click on **Get API Key** and copy your key.
+3. Create a `.env` file in your project directory and add:
+
+```env
+GOOGLE_API_KEY=your_api_key_here
