@@ -52,7 +52,7 @@ To use the Gemini model, you'll need to set up the API key:
 
 ```env
 GOOGLE_API_KEY=your_api_key_here
-
+```
 
 ## ✨ Features
 
