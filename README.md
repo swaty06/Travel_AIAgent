@@ -31,3 +31,13 @@ A lightweight AI-powered travel assistant built with **Streamlit** and **Gemini*
 ```bash
 git clone https://github.com/your-username/travel-ai-agent.git
 cd travel-ai-agent
+
+## 🛠️ Install Dependencies
+
+To get started, install the required dependencies:
+
+### Option 1: Using `requirements.txt`
+
+```bash
+pip install -r requirements.txt
+```
