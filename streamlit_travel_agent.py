@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 24 14:00:22 2025
 
-@author: rampr
-"""
 
 from agno.agent import Agent
 from agno.models.google import Gemini # adjust based on your setup
