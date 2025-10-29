@@ -33,7 +33,7 @@ st.set_page_config(page_title="Travel Assistant", page_icon="✈️")
 @st.cache_resource
 def load_agent():
     return Agent(
-        model=Gemini(id="gemini-2.0-flash"),
+        model=Gemini(id="gemini-2.5-flash"),
        # model=Groq(id="llama-3.3-70b-versatile"),
         tools=[
             ReasoningTools(add_instructions=True),
